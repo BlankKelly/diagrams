@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T05:02:41.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="DQ7k0KfcRPGifoQqcH_7" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T05:03:17.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JySQhPezxWdn-EMLI7tn" version="14.8.2" type="github">
   <diagram id="rGepmbwz1a8DN7RAPDNy" name="Page-1">
     <mxGraphModel dx="949" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,8 +177,10 @@
         <mxCell id="KcTYvcJzlblcP_FhhVJo-63" value="获取楼层活动对应的信息流场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KcTYvcJzlblcP_FhhVJo-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KcTYvcJzlblcP_FhhVJo-64" target="KcTYvcJzlblcP_FhhVJo-103">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KcTYvcJzlblcP_FhhVJo-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KcTYvcJzlblcP_FhhVJo-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KcTYvcJzlblcP_FhhVJo-64" value="JIMDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="670" width="110" height="50" as="geometry" />
@@ -221,10 +223,12 @@
         <mxCell id="KcTYvcJzlblcP_FhhVJo-100" value="非个性化索引" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="600" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KcTYvcJzlblcP_FhhVJo-112" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KcTYvcJzlblcP_FhhVJo-103" target="KcTYvcJzlblcP_FhhVJo-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KcTYvcJzlblcP_FhhVJo-112" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="KcTYvcJzlblcP_FhhVJo-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="810" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="KcTYvcJzlblcP_FhhVJo-103" value="倒排索引创建完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KcTYvcJzlblcP_FhhVJo-116" value="索引创建完成" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
