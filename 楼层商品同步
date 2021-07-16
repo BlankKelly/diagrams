@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T07:25:57.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hMu0auttDkb3fhXYPOzT" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T07:26:15.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ZrOOhuqcK8TVf8_ubP7y" version="14.8.2" type="github">
   <diagram id="rGepmbwz1a8DN7RAPDNy" name="Page-1">
     <mxGraphModel dx="958" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,8 +147,10 @@
         <mxCell id="KcTYvcJzlblcP_FhhVJo-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KcTYvcJzlblcP_FhhVJo-43" target="KcTYvcJzlblcP_FhhVJo-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KcTYvcJzlblcP_FhhVJo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KcTYvcJzlblcP_FhhVJo-43" target="KcTYvcJzlblcP_FhhVJo-59">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KcTYvcJzlblcP_FhhVJo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KcTYvcJzlblcP_FhhVJo-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KcTYvcJzlblcP_FhhVJo-43" value="信息流展示服务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="310" width="120" height="60" as="geometry" />
@@ -181,9 +183,6 @@
         </mxCell>
         <mxCell id="KcTYvcJzlblcP_FhhVJo-57" value="rank服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KcTYvcJzlblcP_FhhVJo-59" value="JIMDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="310" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KcTYvcJzlblcP_FhhVJo-63" value="获取楼层活动对应的信息流场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="310" width="90" height="30" as="geometry" />
@@ -236,6 +235,9 @@
         </mxCell>
         <mxCell id="KcTYvcJzlblcP_FhhVJo-141" value="③" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="451.96" y="740" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KcTYvcJzlblcP_FhhVJo-142" value="JIMDB（业务）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="310" width="89" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
