@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T12:01:43.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="IOumsLa4j8Cb5oB-l0vH" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T12:01:51.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="GOytqOMI474TVJXLFyp9" version="14.9.0" type="github">
   <diagram id="iD6780GTkKIpyNlEGqdI" name="key上报处理流程">
     <mxGraphModel dx="1361" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="swZvobFQdt-IRuL029fj-26" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="swZvobFQdt-IRuL029fj-25">
           <mxGeometry x="-0.35" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="swZvobFQdt-IRuL029fj-22" value="判断是否是删除事件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
