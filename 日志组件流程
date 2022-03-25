@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T13:32:29.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="bOJX1KIh2P85lOjp9TCT" version="16.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T13:33:35.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="FF6DZUBLtqDHWq4LSKmO" version="16.4.0" type="github">
   <diagram id="7nD87Pyem3WGCXrs71mK" name="Page-1">
     <mxGraphModel dx="1223" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="Rzcv4bvMw7nKRodvUJHl-1" value="ETCD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rzcv4bvMw7nKRodvUJHl-2" value="元数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="70" width="60" height="30" as="geometry" />
+        <mxCell id="Rzcv4bvMw7nKRodvUJHl-2" value="存储worker节点信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rzcv4bvMw7nKRodvUJHl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rzcv4bvMw7nKRodvUJHl-3" target="Rzcv4bvMw7nKRodvUJHl-1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="Rzcv4bvMw7nKRodvUJHl-44" value="拉取worker节点信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rzcv4bvMw7nKRodvUJHl-47" value="Worker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
