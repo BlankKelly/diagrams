@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T05:16:53.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.4.0" etag="4L71PzhlUD4m45oFAtqJ" type="github"><diagram id="Ml66TAP83I-JkiBM8Tbf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-04T05:20:18.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="adbDOuCEz893Ll80S15S" version="17.4.0" type="github">
+  <diagram id="Ml66TAP83I-JkiBM8Tbf" name="Page-1">
+    <mxGraphModel dx="1137" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dvn0YwOyTSLSJRKK5tkf-1" target="Dvn0YwOyTSLSJRKK5tkf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dvn0YwOyTSLSJRKK5tkf-1" target="Dvn0YwOyTSLSJRKK5tkf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dvn0YwOyTSLSJRKK5tkf-1" target="Dvn0YwOyTSLSJRKK5tkf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-1" value="xxl job&lt;br&gt;分布式调度中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-2" value="分布式任务执行节点1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="450" as="sourcePoint" />
+            <mxPoint x="340" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-6" value="&lt;span&gt;分布式任务执行节点1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-8" value="&lt;span&gt;分布式任务执行节点1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-12" value="下发&lt;br&gt;shardndex&lt;br&gt;&amp;amp;&lt;br&gt;shardNum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-14" value="根据下发的shardIndex和shardNum分配当前节点所处理业务数据的范围" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
