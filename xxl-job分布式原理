@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T05:20:18.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="adbDOuCEz893Ll80S15S" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T05:20:27.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vsR2B8Kc8s779lxAGH4S" version="17.4.0" type="github">
   <diagram id="Ml66TAP83I-JkiBM8Tbf" name="Page-1">
     <mxGraphModel dx="1137" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="Dvn0YwOyTSLSJRKK5tkf-1" value="xxl job&lt;br&gt;分布式调度中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-2" value="分布式任务执行节点1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-2" value="分布式任务执行节点1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dvn0YwOyTSLSJRKK5tkf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -25,10 +25,10 @@
             <mxPoint x="340" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-6" value="&lt;span&gt;分布式任务执行节点1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-6" value="&lt;span&gt;分布式任务执行节点1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-8" value="&lt;span&gt;分布式任务执行节点1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dvn0YwOyTSLSJRKK5tkf-8" value="&lt;span&gt;分布式任务执行节点1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dvn0YwOyTSLSJRKK5tkf-12" value="下发&lt;br&gt;shardndex&lt;br&gt;&amp;amp;&lt;br&gt;shardNum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
