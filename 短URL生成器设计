@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T08:49:27.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="zZTAd87YzxrFRhP_1WpJ" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T08:55:40.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="nczUdCfKgeCOh2cbK6J1" version="17.4.0" type="github">
   <diagram id="Pk9yE53MKpD-1GPclcSy" name="Page-1">
     <mxGraphModel dx="1070" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="RHbR9HS1aJLPuzjmMkSO-27" value="StarRocks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RHbR9HS1aJLPuzjmMkSO-28" value="关键设计点总结&lt;br&gt;&lt;br&gt;1、如何生成短URL&lt;br&gt;随机获取6个数字，对每个数字进行BASE64编码&lt;br&gt;2、如何保证短url不重复&lt;br&gt;进行预生成&lt;br&gt;3、如何保证同一个长的URL重复请求&lt;br&gt;可以考虑使用布隆过滤器，也可以存一份长URL&amp;lt;-&amp;gt;短URL的数据进行判重，可以根据实际需求，避免为了防止被刷，缓存有效期设置为1个小时&lt;br&gt;4、如何保证读的高性能&lt;br&gt;HBase+Redis hbase中放全量的映射数据，Redis中存放最热的数据&lt;br&gt;7、如何保证高可用&lt;br&gt;web服务器分部署部署，支持水平扩展；缓存服务器、数据库服务器、文件服务器全是分布式组件，天然具备高可用的机制" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="530" width="410" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
