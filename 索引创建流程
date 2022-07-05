@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T08:46:41.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="7J4D3cl_DAM4XRAn5DoE" type="github"><diagram id="M7gwSk0HokNeWRAP4ND2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:11:41.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="U58EHvjHNFHq2-lAvuRs" version="20.0.3" type="github">
+  <diagram id="M7gwSk0HokNeWRAP4ND2" name="Page-1">
+    <mxGraphModel dx="1200" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_vvc33nv2SYBm_vn4-DI-1" target="_vvc33nv2SYBm_vn4-DI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-1" value="定时调度检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_vvc33nv2SYBm_vn4-DI-2" target="_vvc33nv2SYBm_vn4-DI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-2" value="从Jimdb查询当前任务项是否需要执行" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="240" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_vvc33nv2SYBm_vn4-DI-4" target="_vvc33nv2SYBm_vn4-DI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-4" value="开始索引生成" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vvc33nv2SYBm_vn4-DI-6" value="索引创建完成后，往jimdb中写入任务完成标记" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
