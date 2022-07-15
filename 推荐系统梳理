@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:30:43.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2VgxuOYw0tvVOP84EoG9" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T08:43:55.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mZMhL36KfN7cATWESUkJ" version="20.0.4" type="github">
   <diagram id="O_2yHCBw_kHCC_F95GX0" name="Page-1">
     <mxGraphModel dx="1213" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="noMW5Mu5jLxehlYmVgGz-21" value="必传参数clientTag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="90" height="40" as="geometry" />
+          <mxGeometry x="51.25" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="noMW5Mu5jLxehlYmVgGz-22" value="必传参数eliteId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="400" width="90" height="40" as="geometry" />
@@ -105,6 +105,100 @@
         </mxCell>
         <mxCell id="noMW5Mu5jLxehlYmVgGz-37" value="人工干预" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1000" y="230" width="112.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-39" value="全流程的推荐策略对象构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="noMW5Mu5jLxehlYmVgGz-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="356" y="320" as="targetPoint" />
+            <mxPoint x="355.75" y="280" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="303.75" y="330" width="105" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-43" target="noMW5Mu5jLxehlYmVgGz-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="356" y="390" />
+              <mxPoint x="332" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-43" target="noMW5Mu5jLxehlYmVgGz-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="358" />
+              <mxPoint x="400" y="420" />
+              <mxPoint x="356" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-43" value="分流&lt;br&gt;召回" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="315.94" y="335" width="80.62" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-44" value="老召回" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="43.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-45" target="noMW5Mu5jLxehlYmVgGz-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="358" y="470" />
+              <mxPoint x="358" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-45" value="磐石召回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="440" width="57.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-52" target="noMW5Mu5jLxehlYmVgGz-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-52" value="异步召回特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-54" target="noMW5Mu5jLxehlYmVgGz-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-54" value="B端商品召回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-56" value="用户偏好召回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-61" target="noMW5Mu5jLxehlYmVgGz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-61" value="获取用户&lt;br&gt;特征信息" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="45" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-62" value="获取召回用户&lt;br&gt;偏好配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-66" target="noMW5Mu5jLxehlYmVgGz-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-66" value="根据不同的偏好&lt;br&gt;走不同的召回&lt;br&gt;实现" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="noMW5Mu5jLxehlYmVgGz-67" target="noMW5Mu5jLxehlYmVgGz-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-67" value="根据不同的偏好&lt;br&gt;走不同的召回&lt;br&gt;实现" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="515" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-71" value="JIMDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="875" width="107.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
