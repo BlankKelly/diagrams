@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T06:59:14.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZQFtbF2ytR0yqTjuVrvI" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:15:13.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xfO8M2_qZE99BxgGTE6P" version="20.0.4" type="github">
   <diagram id="O_2yHCBw_kHCC_F95GX0" name="Page-1">
     <mxGraphModel dx="1213" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,8 +57,23 @@
         <mxCell id="noMW5Mu5jLxehlYmVgGz-13" value="过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="890" y="235" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="noMW5Mu5jLxehlYmVgGz-15" value="人工干预" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-15" value="人工干预" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1020" y="235" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-21" value="必传参数clientTag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-22" value="必传参数eliteId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-23" value="ab分流字段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-24" value="缓存key构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noMW5Mu5jLxehlYmVgGz-25" value="RecallModel模型构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
