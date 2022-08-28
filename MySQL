@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T02:19:31.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="17.5.0" etag="U1Wk3sAbJthhVPYKb2nQ" type="github"><diagram id="zaff-syzvjlOwV4yrhKm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-28T02:38:13.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qDE_pquRrfleoYu50IdF" version="17.5.0" type="github">
+  <diagram id="zaff-syzvjlOwV4yrhKm" name="Page-1">
+    <mxGraphModel dx="786" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-1" target="EuqbvYnaUhqehn8jyuqe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-1" value="SQL接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-2" target="EuqbvYnaUhqehn8jyuqe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-2" value="SQL解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-3" target="EuqbvYnaUhqehn8jyuqe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-3" value="查询优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-8" target="EuqbvYnaUhqehn8jyuqe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-8" value="查询优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-10" value="存储引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
