@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T02:38:13.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qDE_pquRrfleoYu50IdF" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-28T07:34:05.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Z2_cx5QGB0Ip10V-trDG" version="17.5.0" type="github">
   <diagram id="zaff-syzvjlOwV4yrhKm" name="Page-1">
     <mxGraphModel dx="786" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,11 +25,115 @@
         <mxCell id="EuqbvYnaUhqehn8jyuqe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-8" target="EuqbvYnaUhqehn8jyuqe-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EuqbvYnaUhqehn8jyuqe-8" value="查询优化器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-8" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EuqbvYnaUhqehn8jyuqe-10" value="存储引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="560" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-13" target="EuqbvYnaUhqehn8jyuqe-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-13" value="Buffer Pool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-15" target="EuqbvYnaUhqehn8jyuqe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-17" value="1、加载缓存数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-16">
+          <mxGeometry x="-0.5111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-15" value="磁盘文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-18" value="undo日志文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="EuqbvYnaUhqehn8jyuqe-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="727" as="sourcePoint" />
+            <mxPoint x="110" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="727" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-22" value="2、&lt;br&gt;写入数据&lt;br&gt;旧值便于&lt;br&gt;回滚" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-23" target="EuqbvYnaUhqehn8jyuqe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-34" value="6、准备提交事务&lt;br&gt;binlog日志写入磁盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-33">
+          <mxGeometry x="0.4692" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-23" value="执行器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-24" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-23" target="EuqbvYnaUhqehn8jyuqe-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="550" as="sourcePoint" />
+            <mxPoint x="260" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-25" value="3、更新内存数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-24">
+          <mxGeometry x="0.6333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-26" target="EuqbvYnaUhqehn8jyuqe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-32" value="5、准备提交事务&lt;br&gt;redo日志刷入磁盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-31">
+          <mxGeometry x="-0.16" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-26" value="Redo logo buffer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-23" target="EuqbvYnaUhqehn8jyuqe-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="530" as="sourcePoint" />
+            <mxPoint x="540" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-28" value="4、写redo 日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-27">
+          <mxGeometry x="0.4" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-29" value="&amp;nbsp;redo日志文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-30" target="EuqbvYnaUhqehn8jyuqe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-37" value="7、写入binlog文件和位置&lt;br&gt;写入commit标记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-35">
+          <mxGeometry x="0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-30" value="&amp;nbsp;binlog日志文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EuqbvYnaUhqehn8jyuqe-38" target="EuqbvYnaUhqehn8jyuqe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-41" value="8、刷入磁盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EuqbvYnaUhqehn8jyuqe-40">
+          <mxGeometry x="-0.23" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EuqbvYnaUhqehn8jyuqe-38" value="IO线程" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
