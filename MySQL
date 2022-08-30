@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T00:32:39.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="n3ZBsw57Y_La0Z_5-yV6" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T00:32:50.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qqdRvmHhmUAXVuU3vcvs" version="20.2.7" type="github">
   <diagram id="zaff-syzvjlOwV4yrhKm" name="Page-1">
     <mxGraphModel dx="786" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,25 +264,25 @@
           <mxGeometry x="280" y="1480" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-10" value="文件头(38)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1560" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-11" value="数据页头(56)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1600" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-12" value="最大记录&lt;br&gt;最小记录(26)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-13" value="多个数据行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1680" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-14" value="空闲区域" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1720" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-15" value="数据页目录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1760" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-16" value="文件尾部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1800" width="120" height="40" as="geometry" />
+          <mxGeometry x="65" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TzG_v-FzLyMCzRQnCsv8-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="314" y="1590" width="436" height="220" as="geometry" />
