@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T04:01:40.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NiF--PqxBQEaUtFWQc34" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T04:03:10.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="a9lkVfHeGzAY0wqWyCe9" version="20.3.6" type="github">
   <diagram id="aS1iUR8-DeaDot_ZUzFj" name="第 1 页">
     <mxGraphModel dx="2253" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="bgPXSvZXS7v1T61vYOxo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-17" target="bgPXSvZXS7v1T61vYOxo-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-17" value="当前场景&lt;br&gt;qps是否达到本地缓存阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79.5" y="290" width="135" height="90" as="geometry" />
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-17" value="当前场景&lt;br&gt;qps是否达到&lt;br&gt;本地缓存阈值且允许走接口本地缓存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="290" width="144.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-20" target="bgPXSvZXS7v1T61vYOxo-43">
           <mxGeometry relative="1" as="geometry">
