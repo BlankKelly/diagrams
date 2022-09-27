@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T04:03:10.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="a9lkVfHeGzAY0wqWyCe9" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T06:21:55.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZUvn7hOG4iIUkLaQ1pLr" version="20.3.6" type="github">
   <diagram id="aS1iUR8-DeaDot_ZUzFj" name="第 1 页">
-    <mxGraphModel dx="2253" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-2" value="流量校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="220" width="170" height="40" as="geometry" />
+          <mxGeometry x="62" y="210" width="168" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-4" target="bgPXSvZXS7v1T61vYOxo-6">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="bgPXSvZXS7v1T61vYOxo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="650" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-7" value="接口响应缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-7" value="接口响应缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="720" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-8" value="展示服务调度任务分组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -56,29 +56,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-17" target="bgPXSvZXS7v1T61vYOxo-72">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="315" />
+              <mxPoint x="230" y="398" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-17" value="当前场景&lt;br&gt;qps是否达到&lt;br&gt;本地缓存阈值且允许走接口本地缓存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="290" width="144.5" height="90" as="geometry" />
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-17" value="当前场景&lt;br&gt;qps是否达到&lt;br&gt;本地缓存阈值且允许走接口本地缓存" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="73.75" y="270" width="144.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-20" target="bgPXSvZXS7v1T61vYOxo-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="480" />
+              <mxPoint x="515" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-20" target="bgPXSvZXS7v1T61vYOxo-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-20" value="当前场景qps&lt;br&gt;是否达到cdn缓存阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74.5" y="430" width="145" height="100" as="geometry" />
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-20" value="当前场景qps&lt;br&gt;是否达到cdn缓存阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74.5" y="410" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-22" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="395" width="32" height="20" as="geometry" />
+          <mxGeometry x="140" y="370" width="32" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-24" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-24" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-13" y="370" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-29" target="bgPXSvZXS7v1T61vYOxo-32">
@@ -100,19 +105,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-32" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;定时调用引擎缓存&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-32" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;定时调用引擎缓存&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-8" y="260" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-34" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-34" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3" y="380" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-35" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-35" value="引擎&lt;br&gt;缓存&lt;br&gt;数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7" y="390" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-38" value="聚量引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-38" value="聚量引擎" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-43" value="空结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-43" value="空结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="471.5" y="140" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-45" target="bgPXSvZXS7v1T61vYOxo-35">
@@ -125,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-45" value="引擎调用处理程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="584.5" width="125" height="30" as="geometry" />
+          <mxGeometry x="84.5" y="570" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-52" value="当前场景走引擎缓存结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-33" y="510" width="70" height="50" as="geometry" />
@@ -143,7 +148,7 @@
             <mxPoint x="411.5" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-62" value="正常响应结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-62" value="正常响应结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="140" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-68" value="人工调度任务下发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -158,7 +163,7 @@
         <mxCell id="bgPXSvZXS7v1T61vYOxo-72" value="获取接口级缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bgPXSvZXS7v1T61vYOxo-81" value="接口级缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="bgPXSvZXS7v1T61vYOxo-81" value="接口级缓存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="140" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-83" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
@@ -175,7 +180,7 @@
           <mxGeometry x="232" y="360" width="28" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-86" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="550" width="32" height="20" as="geometry" />
+          <mxGeometry x="140" y="525" width="32" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="bgPXSvZXS7v1T61vYOxo-87" target="bgPXSvZXS7v1T61vYOxo-88">
           <mxGeometry relative="1" as="geometry" />
@@ -187,7 +192,7 @@
           <mxGeometry x="366" y="300" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgPXSvZXS7v1T61vYOxo-90" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="214.5" y="460" width="28" height="20" as="geometry" />
+          <mxGeometry x="218.25" y="440" width="28" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
