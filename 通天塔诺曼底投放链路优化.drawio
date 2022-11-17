@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T15:25:16.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="njeQANrIrx8VzeckBa0t" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T15:25:39.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OBxUg_D9QqwRLta1Yk06" version="20.5.1" type="github">
   <diagram id="ceU_O81jFPpvFsNzQ7Q-" name="第 1 页">
     <mxGraphModel dx="3667" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,8 +121,8 @@
         <mxCell id="1dTAD1cRlgn7t7FhUrby-34" value="JIMDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="610" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1dTAD1cRlgn7t7FhUrby-38" value="key：设备id+渠道，value：权益素材信息&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;缓存5s" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="533" y="690" width="294" height="55" as="geometry" />
+        <mxCell id="1dTAD1cRlgn7t7FhUrby-38" value="key：pin+设备id+渠道，value：权益素材信息&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;缓存5s" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="533" y="690" width="317" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1dTAD1cRlgn7t7FhUrby-39" value="3、验资通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="354" y="200" width="86" height="30" as="geometry" />
