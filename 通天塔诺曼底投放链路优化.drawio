@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T10:14:05.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HAbjLMw2OxZXMVsrSNS1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T02:19:31.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mqIaSaHXvd33hTUvHAaj" version="20.5.3" type="github">
   <diagram id="ceU_O81jFPpvFsNzQ7Q-" name="第 1 页">
-    <mxGraphModel dx="2013" dy="4270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2079" dy="4280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,8 +133,8 @@
         <mxCell id="1dTAD1cRlgn7t7FhUrby-34" value="JIMDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="23" y="-3040" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1dTAD1cRlgn7t7FhUrby-38" value="key：pin+设备id+渠道，value：权益素材信息&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;缓存5s" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="86" y="-2960" width="317" height="60" as="geometry" />
+        <mxCell id="1dTAD1cRlgn7t7FhUrby-38" value="key：uuid+channelId+nmdChannel，value：权益素材信息&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;缓存5s" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-2970" width="444" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1dTAD1cRlgn7t7FhUrby-39" value="3、验资通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-3181" width="86" height="30" as="geometry" />
