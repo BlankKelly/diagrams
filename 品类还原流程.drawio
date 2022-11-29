@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T11:43:52.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KivcOmryo42vy4tut1Py" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T11:45:43.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xrrBwMn5J6OnpikuhZPG" version="20.6.0" type="github">
   <diagram id="imZJRXk6eTblcUwpeaCT" name="第 1 页">
     <mxGraphModel dx="1186" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,13 +121,13 @@
         <mxCell id="VBo8rEwudds36ycGH-56-41" value="画像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="312" y="507" width="87" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="VBo8rEwudds36ycGH-56-44" value="tab品类下商品召回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VBo8rEwudds36ycGH-56-44" value="tab品类商品召回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="444" y="507" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="VBo8rEwudds36ycGH-56-45" value="算法排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="573" y="507" width="87" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="VBo8rEwudds36ycGH-56-46" value="算法排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VBo8rEwudds36ycGH-56-46" value="重排" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="693" y="507" width="87" height="36" as="geometry" />
         </mxCell>
       </root>
