@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T10:17:53.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="lghDWJ739ZCmWNOzkJY_" type="github"><diagram id="SFEWxz6l_KCThiANH_kr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-05T11:32:57.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="TfnyNMSEOUl_V1Gd3Hwq" type="github">
+  <diagram id="JtbWJyywBbmWdFsLsmgN" name="第 1 页">
+    <mxGraphModel dx="1186" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-1" target="mxD1Fp_UbXs0SvHLzxgJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-1" value="流控" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-2" target="mxD1Fp_UbXs0SvHLzxgJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-2" value="前端入参以及参数转化" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-4" target="mxD1Fp_UbXs0SvHLzxgJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-4" value="内部请求流转参数&lt;br&gt;组装" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-6" target="mxD1Fp_UbXs0SvHLzxgJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-6" value="前置依赖请求调用" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-8" target="mxD1Fp_UbXs0SvHLzxgJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-8" value="调用引擎" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-10" target="mxD1Fp_UbXs0SvHLzxgJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-10" value="调用外部依赖&lt;br&gt;（商品、图片、价格、券购等）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-12" target="mxD1Fp_UbXs0SvHLzxgJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-14" target="mxD1Fp_UbXs0SvHLzxgJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-14" value="返参组装" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="790" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-17" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="260" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-18" value="广告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-19" value="优惠券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="320" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-20" value="主题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-21" value="tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="380" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-22" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="410" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mxD1Fp_UbXs0SvHLzxgJ-23" target="mxD1Fp_UbXs0SvHLzxgJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-23" value="异步逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="890" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-25" value="业务UMP打点" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="990" y="250" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-29" value="物料处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-30" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="56.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-31" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="156.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-32" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="256.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-33" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="366.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-34" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="476.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-35" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="586.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-36" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="696.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-37" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="806.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-38" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="906.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="mxD1Fp_UbXs0SvHLzxgJ-39" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1006.5" y="219" width="27" height="27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
