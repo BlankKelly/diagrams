@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T14:54:26.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="1f1ZZytf3uLG4S229nC9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T15:19:15.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="mccF56icnxa94-KyXL03" type="github">
   <diagram id="9PH4TELa1Uke-sMNyPmK" name="第 1 页">
     <mxGraphModel dx="2118" dy="48" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,8 +161,8 @@
         <mxCell id="kBixg6GuGJOfSXqgUfik-121" value="VS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-201" y="1444" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kBixg6GuGJOfSXqgUfik-122" value="现状" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-406" y="1643.5" width="60" height="30" as="geometry" />
+        <mxCell id="kBixg6GuGJOfSXqgUfik-122" value="现状，千目只出组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1645" width="177" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="kBixg6GuGJOfSXqgUfik-123" value="千目出组件+数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-39" y="1645" width="150.5" height="27" as="geometry" />
