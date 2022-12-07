@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T14:26:31.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9HsWfBFn9kmCO6wRHrJ6" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T14:31:20.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A38vzYw-WUu69Z1IyEZ6" version="20.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1826" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="RTEd8d9uqBbtMm4t4O1m-2" value="点击上报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="0azJCVukNUcqy8HdgQQi-67">
           <mxGeometry x="42" y="484" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RTEd8d9uqBbtMm4t4O1m-1" value="权益服务" style="swimlane;startSize=20;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="0azJCVukNUcqy8HdgQQi-19">
+        <mxCell id="RTEd8d9uqBbtMm4t4O1m-1" value="权益服务" style="swimlane;startSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="0azJCVukNUcqy8HdgQQi-19">
           <mxGeometry x="820" width="160" height="634" as="geometry" />
         </mxCell>
         <mxCell id="RTEd8d9uqBbtMm4t4O1m-16" value="领取权益" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="RTEd8d9uqBbtMm4t4O1m-1">
