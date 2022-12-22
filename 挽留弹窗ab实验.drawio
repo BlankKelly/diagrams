@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T08:45:21.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="2NmlEpowcENpyFY1e__t" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T08:50:32.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="CaVB6YaKvVGHFCs1xGt_" type="github">
   <diagram id="tU3NdO-Y4EInyNlEHVPN" name="第 1 页">
-    <mxGraphModel dx="1181" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="geLESezv__AxwEPoky8h-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="geLESezv__AxwEPoky8h-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="270" as="sourcePoint" />
+            <mxPoint x="-38" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="18" y="240" width="30" height="60" as="geometry" />
+          <mxGeometry x="-70" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-2" target="geLESezv__AxwEPoky8h-26">
           <mxGeometry relative="1" as="geometry" />
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-2" value="通天塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="-9" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-7" target="geLESezv__AxwEPoky8h-18">
           <mxGeometry relative="1" as="geometry">
@@ -69,13 +69,13 @@
         <mxCell id="geLESezv__AxwEPoky8h-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-26" target="geLESezv__AxwEPoky8h-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="geLESezv__AxwEPoky8h-37" value="2、根据千目接口&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;返回数据，进行&lt;br&gt;曝光上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-36">
+        <mxCell id="geLESezv__AxwEPoky8h-37" value="2、根据千目接口&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;返回数据，在不干预情况下，进行&lt;br&gt;&amp;nbsp;埋点上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-36">
           <mxGeometry x="-0.22" y="-1" relative="1" as="geometry">
             <mxPoint x="10" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-26" value="加载挽留弹窗组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="161" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-29" target="geLESezv__AxwEPoky8h-33">
           <mxGeometry relative="1" as="geometry" />
@@ -86,10 +86,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-29" value="通天塔后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="183" width="80" height="30" as="geometry" />
+          <mxGeometry x="161" y="183" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="geLESezv__AxwEPoky8h-33" value="千目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="161" y="100" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
