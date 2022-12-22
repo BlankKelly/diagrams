@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T07:23:36.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="hVhbxGS8eOHkFbRjrHq2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T07:24:20.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="m8ueLAvT4u9qmtH1cV9t" type="github">
   <diagram id="hpN8y-AgxtA0ZT0aj-4h" name="第 1 页">
     <mxGraphModel dx="1101" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,6 +121,9 @@
         <mxCell id="8_wQTp-wXSp1oLWiJIMm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_wQTp-wXSp1oLWiJIMm-49" target="8_wQTp-wXSp1oLWiJIMm-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8_wQTp-wXSp1oLWiJIMm-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8_wQTp-wXSp1oLWiJIMm-49" target="8_wQTp-wXSp1oLWiJIMm-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8_wQTp-wXSp1oLWiJIMm-49" value="将弹窗素材内容缓存到jimdb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
@@ -132,6 +135,9 @@
         </mxCell>
         <mxCell id="8_wQTp-wXSp1oLWiJIMm-54" value="异步落日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_wQTp-wXSp1oLWiJIMm-57" value="jimdb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1005" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
