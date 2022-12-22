@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T02:31:49.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="oMqBR6lJYJ4UMaMMdAz-" type="github"><diagram id="WX-Skr0Sy50NY_qANHPj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-22T02:43:08.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="niMnYwLSOhNqgUDc2YMa" type="github">
+  <diagram id="tU3NdO-Y4EInyNlEHVPN" name="第 1 页">
+    <mxGraphModel dx="1194" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="geLESezv__AxwEPoky8h-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-1" target="geLESezv__AxwEPoky8h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-2" target="geLESezv__AxwEPoky8h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-11" value="1、调用千目验资接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-6">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-2" target="geLESezv__AxwEPoky8h-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-17" value="2、根据千目接口&lt;br&gt;返回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-12">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-2" value="通天塔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-4" value="千目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-7" target="geLESezv__AxwEPoky8h-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-16" value="3、用户退出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-15">
+          <mxGeometry x="-0.1667" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-7" value="上报ab实验等信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-18" target="geLESezv__AxwEPoky8h-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-20">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-18" value="是否干预" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="265" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geLESezv__AxwEPoky8h-19" target="geLESezv__AxwEPoky8h-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-24" value="4、弹窗组件埋点上报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="geLESezv__AxwEPoky8h-23">
+          <mxGeometry x="-0.2615" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-19" value="打开挽留弹窗" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679.75" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="geLESezv__AxwEPoky8h-22" value="上报组件曝光等埋点信息，不再上报ab实验信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="180" width="107.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
