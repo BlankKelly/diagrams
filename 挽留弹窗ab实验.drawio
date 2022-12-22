@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T13:54:33.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IOojjlpGcxoqp8XGGRzQ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T14:13:03.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FLYyvkM5cDUy48-T_GEJ" version="20.7.4" type="github">
   <diagram id="tU3NdO-Y4EInyNlEHVPN" name="第 1 页">
     <mxGraphModel dx="1629" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,13 +104,11 @@
             <mxPoint x="-10" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Rg2fetcnfwRAlsVNBfH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-6">
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="720" as="sourcePoint" />
             <mxPoint x="-10" y="680" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5Rg2fetcnfwRAlsVNBfH-6" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;ddd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="720" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Rg2fetcnfwRAlsVNBfH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-10" target="5Rg2fetcnfwRAlsVNBfH-11">
           <mxGeometry relative="1" as="geometry" />
@@ -118,11 +116,49 @@
         <mxCell id="5Rg2fetcnfwRAlsVNBfH-10" value="不同实验分桶的pin/uuid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Rg2fetcnfwRAlsVNBfH-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-11" target="5Rg2fetcnfwRAlsVNBfH-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-11" value="活动页面pv/曝光uv/点击uv等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Rg2fetcnfwRAlsVNBfH-14" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;ssss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="640" width="200" height="40" as="geometry" />
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-15" value="Babel_PVFinish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="650" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-16" value="AB埋点信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="720" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-17" target="5Rg2fetcnfwRAlsVNBfH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-17" value="试金石平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-18" target="5Rg2fetcnfwRAlsVNBfH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-18" value="通天塔项目ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="790" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-22" value="实验指标数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-23" target="5Rg2fetcnfwRAlsVNBfH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-27" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-23" target="5Rg2fetcnfwRAlsVNBfH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-23" value="A/B实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="790" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="5Rg2fetcnfwRAlsVNBfH-35" target="5Rg2fetcnfwRAlsVNBfH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Rg2fetcnfwRAlsVNBfH-35" value="通天塔活动等表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
