@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T09:35:35.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="uVQi1ds2WrvyCO-EHA7N" type="github"><diagram id="YlNh5GEUA5UkF1GDeFk6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T09:57:15.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.1" etag="wpPOLl0TJRSmoRNVXl6J" type="github">
+  <diagram id="JhRs3tgzBdO8MVtkOePI" name="第 1 页">
+    <mxGraphModel dx="1238" dy="1063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-2" value="" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-1" value="ModuleA" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="535" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-4" value="JDOS容器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-5" value="JSF InterA provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="105" y="490" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-6" value="" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-7" value="ModuleB" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="695" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-8" value="JDOS容器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-9" value="JSF InterB provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="105" y="650" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-10" value="" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="575" width="426" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-11" value="ModuleA" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-12" value="JDOS容器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-13" value="JSF InterA provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="426" y="565" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-14" value="ModuleB" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="591" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-15" value="JSF InterB provider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="591" y="565" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_-G7MotKDhiSOVtdFw-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=24;endSize=7.33;" edge="1" parent="1">
+          <mxGeometry y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="639.5" as="sourcePoint" />
+            <mxPoint x="350" y="639.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
