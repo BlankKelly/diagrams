@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:38:21.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MHaxBTE1ABlrjGcNFXVj" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T07:25:50.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ye0yWRWnAeWhjAIwO_7m" version="20.8.20" type="github">
   <diagram name="第 1 页" id="jpnvuy32GK8fpqJJxuUJ">
     <mxGraphModel dx="1550" dy="1119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yl57tY-dSV3nHuKEagw1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-48" target="yl57tY-dSV3nHuKEagw1-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-55" value="诺曼底首页浮层后链路场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-54">
+          <mxGeometry x="0.7571" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-16" target="yl57tY-dSV3nHuKEagw1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-24" value="诺曼底首页弹窗后链路511场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-22">
+          <mxGeometry x="0.6645" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-8" target="yl57tY-dSV3nHuKEagw1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-15" value="诺曼底首页弹窗前链路534场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-14">
+          <mxGeometry x="0.6968" y="-4" relative="1" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="687" width="119" height="112" as="geometry" />
         </mxCell>
@@ -28,16 +52,8 @@
         <mxCell id="yl57tY-dSV3nHuKEagw1-2" value="千目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="75" y="549" width="1316" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-6" value="计划1-浮层策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="91" y="742" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-8" target="yl57tY-dSV3nHuKEagw1-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-15" value="诺曼底首页弹窗前链路534场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-14">
-          <mxGeometry x="0.6968" y="-4" relative="1" as="geometry">
-            <mxPoint y="14" as="offset" />
-          </mxGeometry>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-6" value="计划2-浮层策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="91" y="749.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-8" target="yl57tY-dSV3nHuKEagw1-16">
           <mxGeometry relative="1" as="geometry" />
@@ -55,14 +71,6 @@
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-12" value="计划1-弹窗策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="261" y="709" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-16" target="yl57tY-dSV3nHuKEagw1-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-24" value="诺曼底首页弹窗后链路511场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-22">
-          <mxGeometry x="0.6645" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="19" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-16">
           <mxGeometry relative="1" as="geometry">
@@ -144,14 +152,6 @@
         <mxCell id="yl57tY-dSV3nHuKEagw1-46" value="展示权益领取成功弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1081" y="339" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-48" target="yl57tY-dSV3nHuKEagw1-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-55" value="诺曼底首页浮层后链路场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-54">
-          <mxGeometry x="0.7571" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-48" value="进入首页&lt;br&gt;展示浮层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1261" y="339" width="120" height="60" as="geometry" />
         </mxCell>
@@ -208,6 +208,9 @@
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-70" value="频控" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="213" y="728.5" width="30" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-74" value="计划1-弹窗策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90.5" y="707" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
