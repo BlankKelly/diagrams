@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T03:36:42.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="66xLJGDMGfbw-Ws1m535" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T03:37:25.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2Q5Xue84cvB60HTN2iCf" version="20.8.20" type="github">
   <diagram name="第 1 页" id="jpnvuy32GK8fpqJJxuUJ">
     <mxGraphModel dx="1396" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-10" value="用户&lt;br&gt;点击&lt;br&gt;浮层" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-1" target="yl57tY-dSV3nHuKEagw1-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-1" value="未登录&lt;br&gt;首页展示浮层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
