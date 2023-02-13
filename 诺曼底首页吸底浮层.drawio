@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:11:02.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9141E02vCL4m-3QbIExG" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:23:33.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bTOVvxsKL2ZShpIfdrTc" version="20.8.20" type="github">
   <diagram name="第 1 页" id="jpnvuy32GK8fpqJJxuUJ">
     <mxGraphModel dx="1550" dy="1119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,8 +196,8 @@
             <mxPoint x="253" y="724" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yl57tY-dSV3nHuKEagw1-70" value="频控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="728.5" width="30" height="21" as="geometry" />
+        <mxCell id="yl57tY-dSV3nHuKEagw1-70" value="频控" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="213" y="728.5" width="30" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
