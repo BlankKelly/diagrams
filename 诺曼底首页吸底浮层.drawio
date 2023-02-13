@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:23:33.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bTOVvxsKL2ZShpIfdrTc" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:38:21.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MHaxBTE1ABlrjGcNFXVj" version="20.8.20" type="github">
   <diagram name="第 1 页" id="jpnvuy32GK8fpqJJxuUJ">
     <mxGraphModel dx="1550" dy="1119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,12 +112,22 @@
             <mxPoint x="1081" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-73" value="默认" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-41">
+          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yl57tY-dSV3nHuKEagw1-40" target="yl57tY-dSV3nHuKEagw1-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1021" y="269" as="targetPoint" />
             <Array as="points">
               <mxPoint x="981" y="269" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl57tY-dSV3nHuKEagw1-72" value="新人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yl57tY-dSV3nHuKEagw1-45">
+          <mxGeometry x="0.475" y="-3" relative="1" as="geometry">
+            <mxPoint x="-10" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yl57tY-dSV3nHuKEagw1-40" value="人群&lt;br&gt;分流" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
