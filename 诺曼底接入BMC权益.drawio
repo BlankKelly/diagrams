@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T12:00:10.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JKJE_kh4emCkXprhF4fe" version="20.8.20" type="github"><diagram name="第 1 页" id="aAbYMBvP9iMAMNdRvLTC">7Vtbc6M2FP41mmkfnAGEQDwCJu1DdrozmU7bpw42ik0XWy6WE2d/fSUhbC7C8cbgS9LszEYcJBDnnO87FwiA4WL7Sx6v5l9oQjJgGckWwDGwLBMaDv8lJK+FxDaMQjDL06QQVQSP6XeiVpbSTZqQtZIVIkZpxtJVXTilyyWZsposznP6Up/2RLOkJljFM1LbhhA8TuOMtKb9kSZsXkix5e7lv5J0Ni/vbDpecWYRl5PVhdfzOKEvFRGMAAxzSlkxWmxDkgnl1fVy33F2t7GcLNkxC8YJmoTPHvz7IXB/+2aFCwZ/H5nKPM9xtlFPrHbLXksVkIRrRB3SnM3pjC7jLNpLg5xulgkR9zH40X7OA6UrLjS58B/C2Ksyb7xhlIvmbJGps8U9xY06H06J1nSTT8mhJ7KVl8T5jLADE72dDbjzErogLH/l63KSxSx9rm8kVl40283bK5oPlK5/RO/223qva/VlnjLyuIrlw79wsNU1mMTruZy7V+czyRnZHlZo+/nVAugpty1xa6vjlz0KLKxk8woCHGMglaFbd8wT/U0t/UpTfuednSyjbieEG/ovcKBWNUyw28YJjuy2HTlCAHsAj0HkAQ+CIAIRBoEL/Hsx4P/zceSAwASYL3UyrshgkvPRTIzknEiuQsC3AXbVKuzIK/MxnwMBf1Bs6pbbIMAAB3LyPfBMcS9vDDAEkQu8AGBfzrkHvjzFLyI2xncViotHcq2PxOYxkk/hgmAstqTmeFpHfIgnPPTVnCfO0tmSj6fcV0jOBQKRKY8tvjqxSJOk8FOyTr/HE3k94akrYS5pQBQAND4EaRX41OJqHNu7aDeeOvE/Mu64M9VcCxZH73XYcgp9elqTYXzR1Frms1MEbFCE7Z6ZIjQMwREZAt+XiPRAIMHKQeYhOQhB4IlTfILn6iCOBHmIya5giMDXgbUNei5xJJ04Avoc6ydF3Kc0y0Ka0VyuhU94SqZTLl+znH4jlTMTjGxk9BOWTfvtsGxa5wzLUM//FdVzY/SqaCT+CTldsoq8+NEZwJE/wxgAeW0DuDoDIDSQAdwbJz1nENJD6LKkp6mrOCy4s+DouLSoEzHm24jpwc/tZtBAGqIxNX5uD0U0WBtGeDbmFwkiV1tYBoRQclAoYoImDvAlVplN3ouYcGllt5z14sr2tO7bDLpt1SLhxIFV03EznPcYCxJEcGLrOB9bE9gX5+/4/GqCrglvnPRNaxDWb3Utzp3qWhrccHDYwMeSrSTht5PepjHX83glhptF5k8ZrdaOss78StcpS6moISeUMbrQFJeMNrBDNyxLlxwkZae0p5wUmm/DA54VHe3M/orQ0X+qY3l39UodGQ3VFnhsuf0xlzp3P0kfeToTJ09EFRH4uYSHc1vfT+LByi86Q4FA3I/1kw6mbSLcQTngVWeoaSx9iF5RgagP1Syybj2EVl4iDdlQdtB5CcDSvBl5b0O5Ylzn3w2VYponJB9Ni0zRlzfKfxqNqvKfpaHKFSf3pXveha697cv6J5JchHWJ+YdgoQKyh1jIdBz3xmjo1ts3Q9FQI5N3m9ni0DRkaGio9671Ecj9iF1rF166gC6zlU9WqMG6GcqXt5cq1MqbXSf59c5pdqNQdtGu2nqD1dqNDts+TI8dFZ+f5/FrZZoK290NFdfV3mdv9eKKvXIv1DfP6+QZfAk7GpC33m50ro4t4UUaKmSbsj/F8jukjv5SFxPj8bZ68FpjyV4SG+gOQwLeZesrW5fYvLPB0mtl0wHo4Quq//s7CuCdjGTcGY32zkg1uq+3sLKta84tjuafIz5khae+QT8tNmg+ADwp5vb9JWsr69KFU+ec4dTWfRF1Ux8HwDobuLoXomd9X23rPkNqfQvQ1BvXAKsrp57YLemSNLJAJTqeznXWqONBfMekCMXsKYW0Ot4HVeyj83g4mHnaTV0R7j+PPerVmuNZQ9mDH+7/pKSIpfs/zIHRfw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-20T12:00:21.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Fqvc8PrapgeRxMTKNbxw" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="aAbYMBvP9iMAMNdRvLTC">
+    <mxGraphModel dx="1306" dy="400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-14" target="Dd5bCv93_LB7Ok2Cmt3U-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="440" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-17" value="前链路请求&lt;br&gt;设备识别、&lt;br&gt;下发权益信息（若配置）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Dd5bCv93_LB7Ok2Cmt3U-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.225" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-1" value="未登录弹窗&lt;br&gt;展示配置权益文案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-3" value="千目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="590" width="720" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-6" value="后链路请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-8" value="执行礼包权益领取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-9" value="展示权益已领弹窗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="720" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-12" value="用户登录" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529.5" y="500" as="sourcePoint" />
+            <mxPoint x="529.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-19" value="后链路验资&lt;br&gt;身份识别、&lt;br&gt;后链路跳转信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Dd5bCv93_LB7Ok2Cmt3U-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.225" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-24" value="前链路请求&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;设备识别、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;下发模糊权益" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Dd5bCv93_LB7Ok2Cmt3U-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.1667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-20" value="未登录弹窗&lt;br&gt;展示模糊权益文案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="140" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-25" value="用户登录" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="313" y="717" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="759.5" as="targetPoint" />
+            <mxPoint x="344" y="760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="377" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-36" value="展示BMC权益弹窗" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-40" value="后链路验资&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BMC权益、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;后链路跳转信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Dd5bCv93_LB7Ok2Cmt3U-38" vertex="1" connectable="0">
+          <mxGeometry x="0.025" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dd5bCv93_LB7Ok2Cmt3U-37" target="Dd5bCv93_LB7Ok2Cmt3U-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-41" value="后链路请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-43" value="礼包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="25" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd5bCv93_LB7Ok2Cmt3U-44" value="BMC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="24" y="692" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
