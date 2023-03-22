@@ -1,1 +1,185 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T13:45:28.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.10" etag="QfFWk9rJdP_OKrmOc-57" type="github"><diagram name="第 1 页" id="E03Ad0P9AxYGjsDXURJg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-22T14:23:57.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lqrIGFg-CDkhu0dZFj7C" version="21.0.10" type="github">
+  <diagram name="第 1 页" id="E03Ad0P9AxYGjsDXURJg">
+    <mxGraphModel dx="1785" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DskLDPF2zo0yyIS821II-3" value="是否干预" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-1" target="DskLDPF2zo0yyIS821II-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196" y="367.29999999999995" as="sourcePoint" />
+            <mxPoint x="296.5" y="367.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="331" width="183" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.006;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-48" value="干预方式/内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DskLDPF2zo0yyIS821II-46">
+          <mxGeometry x="-0.0331" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-2" target="DskLDPF2zo0yyIS821II-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-63" value="权益匹配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DskLDPF2zo0yyIS821II-62">
+          <mxGeometry x="0.2747" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="294" y="331" width="232" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-13" value="权益引导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="29" y="595" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29" y="658" as="sourcePoint" />
+            <mxPoint x="729" y="658" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-16" value="权益展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="24" y="700" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-17" target="DskLDPF2zo0yyIS821II-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-17" value="未登录用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="139" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-18" value="千目系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="379" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-17" target="DskLDPF2zo0yyIS821II-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="585" as="sourcePoint" />
+            <mxPoint x="309" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-72" value="权益力度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DskLDPF2zo0yyIS821II-19">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-18" target="DskLDPF2zo0yyIS821II-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299" y="665" as="sourcePoint" />
+            <mxPoint x="349" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-23" value="最高可领X元" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="615" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-25" target="DskLDPF2zo0yyIS821II-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-25" value="登录用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="139" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-26" target="DskLDPF2zo0yyIS821II-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-26" target="DskLDPF2zo0yyIS821II-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-26" value="千目系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="379" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-27" target="DskLDPF2zo0yyIS821II-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-27" value="登录用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="589" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-32" value="用户发什么权益" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="685" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-35" value="pin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499" y="680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-36" value="优惠券/红包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="735" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-37" value="用户到账权益/跳转链接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="735" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-38" value="挽留弹窗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="96" y="342" width="78" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-41" value="权益楼层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="95" y="368.25" width="78" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-42" value="初始化弹窗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="95" y="392.25" width="78" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-44" target="DskLDPF2zo0yyIS821II-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-65" value="权益干预" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DskLDPF2zo0yyIS821II-64">
+          <mxGeometry x="-0.1209" relative="1" as="geometry">
+            <mxPoint x="-3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="617" y="331" width="173" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-45" value="通天塔" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2" y="342" width="20" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-49" target="DskLDPF2zo0yyIS821II-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-49" value="人群筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="368" y="337.5" width="24" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-50" value="A/B分流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="408" y="337.5" width="21" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-51" value="权益匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="443" y="337.5" width="22" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-52" value="权益领取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="481" y="336.5" width="22" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-55" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="361.25" width="11" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="381.5" as="sourcePoint" />
+            <mxPoint x="85" y="381.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-61" value="千目系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="307" y="345.5" width="20" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-66" value="权益池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="671" y="385.38" width="102" height="37.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-67" value="权益能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="671" y="340.25" width="101" height="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-68" value="B&lt;br&gt;M&lt;br&gt;C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="624" y="345.5" width="20" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-69" value="干预组件接入BMC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="281" y="458" width="150" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-70" value="诺曼底接入BMC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="277" y="793" width="150" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="DskLDPF2zo0yyIS821II-71" value="" style="endArrow=none;html=1;rounded=0;fontStyle=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18" y="520" as="sourcePoint" />
+            <mxPoint x="792" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
