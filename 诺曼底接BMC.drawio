@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T14:23:57.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lqrIGFg-CDkhu0dZFj7C" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T14:24:11.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aBMxjOemRmECglC80g-n" version="21.0.10" type="github">
   <diagram name="第 1 页" id="E03Ad0P9AxYGjsDXURJg">
     <mxGraphModel dx="1785" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
           <mxGeometry x="671" y="385.38" width="102" height="37.75" as="geometry" />
         </mxCell>
         <mxCell id="DskLDPF2zo0yyIS821II-67" value="权益能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="671" y="340.25" width="101" height="38.75" as="geometry" />
+          <mxGeometry x="671" y="337.5" width="101" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="DskLDPF2zo0yyIS821II-68" value="B&lt;br&gt;M&lt;br&gt;C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="624" y="345.5" width="20" height="67" as="geometry" />
