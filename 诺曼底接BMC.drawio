@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T14:53:51.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1ZeFmPp2tMRszgkLuCGj" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T14:54:28.846Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZqS9PUu5pQrDqmjL7UhH" version="21.0.10" type="github">
   <diagram name="第 1 页" id="E03Ad0P9AxYGjsDXURJg">
-    <mxGraphModel dx="2101" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,7 +199,7 @@
         <mxCell id="DskLDPF2zo0yyIS821II-81" value="人群筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="131" y="336.5" width="24" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DskLDPF2zo0yyIS821II-87" value="权益引导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="DskLDPF2zo0yyIS821II-87" value="权益引导" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="259.5" y="663" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DskLDPF2zo0yyIS821II-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="DskLDPF2zo0yyIS821II-89" target="DskLDPF2zo0yyIS821II-95">
@@ -260,7 +260,7 @@
             <mxPoint x="37" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DskLDPF2zo0yyIS821II-102" value="权益展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="DskLDPF2zo0yyIS821II-102" value="权益展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="463.5" y="665" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
