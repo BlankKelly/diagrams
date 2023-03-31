@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T02:54:23.173Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.1.1" etag="gY-hsB0TehTUTTnztUyE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T03:11:06.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FszaMsBf-ADk_-dbDOl_" version="21.1.1" type="github">
   <diagram name="第 1 页" id="zzSldxRVRqwI4bkoozq8">
-    <mxGraphModel>
+    <mxGraphModel dx="1344" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BipAKc5l0U_uYSt-I5Qa-2" target="BipAKc5l0U_uYSt-I5Qa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-2" value="入参构建" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="266" height="180" as="geometry">
+            <mxRectangle x="240" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BipAKc5l0U_uYSt-I5Qa-3" target="BipAKc5l0U_uYSt-I5Qa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-3" value="计划获取" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="266" height="180" as="geometry">
+            <mxRectangle x="240" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BipAKc5l0U_uYSt-I5Qa-5" target="BipAKc5l0U_uYSt-I5Qa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-5" value="策略匹配" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="266" height="180" as="geometry">
+            <mxRectangle x="240" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BipAKc5l0U_uYSt-I5Qa-7" target="BipAKc5l0U_uYSt-I5Qa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-7" value="业务动作" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="266" height="180" as="geometry">
+            <mxRectangle x="240" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BipAKc5l0U_uYSt-I5Qa-10" target="BipAKc5l0U_uYSt-I5Qa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-10" value="素材处理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1090" width="266" height="180" as="geometry">
+            <mxRectangle x="240" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BipAKc5l0U_uYSt-I5Qa-12" value="数据聚合" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1330" width="266" height="180" as="geometry">
+            <mxRectangle x="240" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
