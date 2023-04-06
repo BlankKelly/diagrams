@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T10:45:39.572Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4BzHZUIDdRUtjRO0K8Pt" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T10:45:55.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1ngOETOmHd16dQ7_EXWe" version="21.1.4" type="github">
   <diagram name="第 1 页" id="cTXhzEJ9n4TDVEFNR6YO">
     <mxGraphModel dx="1306" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,19 +191,19 @@
           <mxGeometry x="532" y="678" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xtmy36vnMTvoriy4tiQI-75" value="jutou-common" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="217" y="1749" width="131" height="52" as="geometry" />
+          <mxGeometry x="502" y="1818" width="131" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Xtmy36vnMTvoriy4tiQI-76" value="jutou-rpc" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="395" y="1749" width="131" height="52" as="geometry" />
+          <mxGeometry x="680" y="1818" width="131" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Xtmy36vnMTvoriy4tiQI-77" value="jutou-web" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="99" y="1629" width="131" height="52" as="geometry" />
+          <mxGeometry x="384" y="1698" width="131" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Xtmy36vnMTvoriy4tiQI-78" value="juotu-recall" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="304.5" y="1627" width="131" height="52" as="geometry" />
+          <mxGeometry x="589.5" y="1696" width="131" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Xtmy36vnMTvoriy4tiQI-79" value="juotu-platform" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1629" width="131" height="52" as="geometry" />
+          <mxGeometry x="795" y="1698" width="131" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
